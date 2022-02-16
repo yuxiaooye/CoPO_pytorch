@@ -23,7 +23,7 @@ python round/train_copo_torch.py
 
 Prove that the implementation is correct.
 
-![image-20220121195645313](C:\Users\Administrator\Desktop\CoPO_pytorch\README.assets\image-20220121195645313.png)
+![image-20220121195645313](https://gitee.com/insomnia-y/my-figure-bed/raw/master/img/202202161501685.png)
 
 ## Citation
 
@@ -36,4 +36,6 @@ Prove that the implementation is correct.
   year={2021}
 }
 ```
+
+
 
